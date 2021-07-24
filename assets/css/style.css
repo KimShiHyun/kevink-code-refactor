@@ -102,7 +102,7 @@ section h2 {
 /* Added id element properties to aside element. */
 /* Added margin-top property due to element moving down from the top. */
 aside {
-  margin-top: -740px;
+  margin-top: -640px;
   margin-right: 20px;
   margin-bottom: -32px;
   padding: 20px;
